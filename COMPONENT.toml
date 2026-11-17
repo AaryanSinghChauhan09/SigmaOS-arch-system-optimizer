@@ -3,12 +3,12 @@ name = "SigmaOS-arch-system-optimizer"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-system-optimizer component"
+description = "System Optimizer for SigmaOS inspired by Arch Linux"
 upstream = []
 
 [contract]
 provides = ["component"]
-depends_on = []
+depends_on = ["SigmaOS-system"]
 
 [maturity]
 status = "Scaffold"
