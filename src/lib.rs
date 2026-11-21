@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-//! SigmaOS-arch-system-optimizer: arch system optimizer component model.
+//! SigmaOS-system-optimizer: arch system optimizer component model.
 //!
 //! Real implementation: optimizers, events, validation, deterministic storage.
 //! Replaces the placeholder stub.

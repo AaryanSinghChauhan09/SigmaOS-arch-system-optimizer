@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-arch-system-optimizer"
+name = "SigmaOS-system-optimizer"
 tier = 2
 stability = "beta"
 language = "rust"

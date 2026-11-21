@@ -1,8 +1,8 @@
-// Integration test for SigmaOS-arch-system-optimizer
+// Integration test for SigmaOS-system-optimizer
 // Verifies the crate builds and links as a dependency.
 #![allow(unused_imports)]
 
-use arch_system_optimizer as _;
+use sigmaos_system_optimizer as _;
 
 #[test]
 fn crate_links_and_runs() {

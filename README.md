@@ -1,4 +1,4 @@
-# SigmaOS-arch-system-optimizer
+# SigmaOS-system-optimizer
 
 System Optimizer for SigmaOS inspired by Arch Linux
 
